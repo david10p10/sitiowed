@@ -1,0 +1,167 @@
+body{
+  background-image: url(2.jpg) ;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+body {
+  background-color: #fff; 
+  color: #f1efef; 
+  font-family: sans-serif; 
+  padding: 20px; 
+}
+
+
+.container {
+  width: 80%; 
+  margin: 0 auto; 
+}
+
+
+h1, h2, p {
+  text-align: center; 
+}
+
+
+
+body {
+  display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+  justify-content: center; 
+  min-height: 100vh; 
+  background-color: #fcfafa; 
+  color: #111111; 
+  font-family: sans-serif; 
+  padding: 20px; 
+}
+
+
+.btn-inicio {
+  background-color: #007bff; 
+  color: #fff; 
+  border: none;
+}
+
+
+.btn-acercade {
+  background-color: #28a745; 
+  color: #6b13cf; 
+  border: none;
+}
+
+
+
+.btn-servicios {
+  background-color: #ffc107; 
+  color: #fff; 
+  border: none;
+}
+
+
+.btn-estadisticas {
+  background-color: #dc3545;
+  color: #fff; 
+  border: none;
+}
+
+
+.btn-precios {
+  background-color: #1d1731; 
+  color: #fff; 
+  border: none;
+}
+
+
+.btn-opciones {
+  background-color: #e91e63; 
+  color: #fff; 
+  border: none;
+}
+
+
+.btn-contacto {
+  background-color: #6c757d; 
+  color: #fff; 
+  border: none;
+}
+
+
+.btn-enlace {
+  background-color: #52b9f5;
+  color: #f5f7f8; 
+  border: none;
+}
+
+
+.btn-block {
+  display: block;
+  width: 100%;
+}
+
+
+.rounded-pill {
+  border-radius: 50px;
+}
+
+
+.px-3 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+
+.d-inline-flex .btn .bi {
+  margin-left: 0.5rem;
+}
+
+
+
+
+.btn-outline-acerca-de,
+.btn-outline-secondary {
+  border: 2px solid #007bff; 
+  color: #007bff; 
+}
+
+
+.btn-light {
+  background-color: #f8f9fa; 
+  color: #333; 
+  border: none;
+}
+
+
+.btn-dark {
+  background-color: #212529; 
+  color: #fff;
+  border: none;
+}
+
+
+.btn-link {
+  background-color: transparent;
+  color: #007bff;
+  border: none;
+}
+
+
+.btn-block {
+  display: block;
+  width: 100%;
+}
+
+
+.rounded-pill {
+  border-radius: 50px;
+}
+
+
+.px-3 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+
+.d-inline-flex .btn .bi {
+  margin-left: 0.5rem;
+}
